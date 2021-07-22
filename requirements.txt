@@ -1,0 +1,11 @@
+Pillow
+matplotlib
+opencv-python
+numpy
+imutils 
+pytesseract
+tesseract
+tesseract-ocr
+python-Levenshtein
+sudo apt-get install tesseract-ocr
+sudo apt install libtesseract-dev
